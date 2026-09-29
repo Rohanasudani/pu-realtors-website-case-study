@@ -6,7 +6,7 @@ Live site: https://purealtors.in/
 
 ## Impact
 
-- Helped generate 70 lakh INR in plot sales through digital property discovery and lead capture.
+- Helped generate ₹70 lakh+ in plot sales through digital property discovery and lead capture.
 - Created a public-facing website for buyers to explore investment plots, request consultations, and book site visits.
 - Turned offline real estate sales material into a structured, mobile-friendly web funnel.
 
@@ -57,6 +57,5 @@ This was not a toy landing page. It was built for a real business outcome: conve
 ## Resume Bullet
 
 ```text
-Co-created and launched a live real estate website for PU Realtors to market investment plots in Nagpur, helping generate 70 lakh INR in plot sales through digital lead capture and property discovery.
+Co-created and launched a live real estate website for PU Realtors to market investment plots in Nagpur, helping generate ₹70 lakh+ in plot sales through digital lead capture and property discovery.
 ```
-

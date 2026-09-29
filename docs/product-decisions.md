@@ -20,5 +20,4 @@ Real estate buyers often prefer direct conversation. The site therefore emphasiz
 
 ## Business Outcome
 
-The site supported the sales funnel for PU Realtors and helped generate 70 lakh INR in plot sales.
-
+The site supported the sales funnel for PU Realtors and helped generate ₹70 lakh+ in plot sales.
